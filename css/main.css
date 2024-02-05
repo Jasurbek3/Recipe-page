@@ -263,11 +263,9 @@ body {
     font-weight: 700;
     line-height: 24px;
 }
-.link::after{
+.link{
     margin-top: 12px;
     margin-bottom: 12px;
-    content: "";
-    display: block;
     width: 656px;
     height: 1px;
     background: var(--link);
